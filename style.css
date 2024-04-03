@@ -1,0 +1,75 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTA8MgiQtHt0-Oi6Jnb038WlkDNJyvsQ5vgG1i7DHsdLWq1oQ9iEh32nBUa8-9HiN_9o&usqp=CAU");
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c9dfe8;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #09729f;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  padding-right:38.5px;
+  padding-left:38.5px;
+  border-right:solid 2px #f9e1f5ff;
+}
+
+li a:hover {
+  background-color: #09729f;
+  color:white;
+}
+
+h1{
+  color: #09729f;
+  padding:4px;
+  border-right: solid 2px #09729f;
+  border-bottom: solid 2px #09729f;
+  border-radius: 5px;
+  text-align:center;
+  width:30%;
+  margin: auto;
+  margin-top: 20px;
+  
+}
+
+
+h2{
+  color:#09729f;
+  text-align:center;
+  margin-top:10px;
+}
+
+
+button{
+  height:230px;
+  width:500px;
+  background-color: #c9dfe8;
+  border-radius:15%;
+  margin-left:420px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.quizpg, .advpg, .mediapg, .sixpg, .arraypg, .collegepg, .respg, .mvppg, .tepg{
+  height:150px;
+  width:300px;
+}
+
+
+
